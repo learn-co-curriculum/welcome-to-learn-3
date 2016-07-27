@@ -14,7 +14,7 @@ We're going to focus right now on introducing you to the three main tools you'll
 2. A Text Editor
 3. A Programming Language and Interpreter
 
-Luckily, we've bundled all 3 of these into one tool, called an “integrated development environment” or the Learn IDE for short.
+Luckily, we've bundled all 3 of these into one tool, called an “integrated development environment” or the Learn IDE for short. We'll get into how to use the Learn IDE in the next lesson but first we'll review what the individual pieces are all about. 
 
 <img src="http://learn-co-videos.s3.amazonaws.com/welcome/ide-components.png" style="width:100%" />
 
