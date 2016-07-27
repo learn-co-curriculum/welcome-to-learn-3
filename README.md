@@ -41,3 +41,5 @@ At their lowest level, computers only understand binary machine code, expressed 
 This is the programming process: write code in a programming language of your choosing using your favorite text editor, save the file, then execute your program by sending that file to the interpreter using your command line. 
 
 It may still sound a little abstract, but soon enough you'll be practicing these steps with the help of the Learn IDE, and it will all quickly feel very natural!
+
+Click "I'm done" to move on to the next lesson to get up and running with the Learn IDE. 
