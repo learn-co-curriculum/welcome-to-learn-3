@@ -1,6 +1,6 @@
 # How Software is Developed
 
-By now, you're hopefully getting excited about learning to code. Let's start diving into the details and show you how professional software developers write software.
+By now, you're hopefully getting excited about learning to code. Let's start diving into the details and show you how professional developers write software.
 
 The first thing we need to learn when it comes to programming is how to think of and use our computer a bit differently. It's time for you to start thinking of your computer as a tool for creation. We're used to using our computer as a means for consumption: to browse the internet, check out some cute cat pics, browse Facebook, check your email. But as a programmer, our computer is our tool, it's how we create new things, what we use to build and practice our craft, to earn a living. So we're going to use it a bit differently.
 
