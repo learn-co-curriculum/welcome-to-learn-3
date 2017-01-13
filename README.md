@@ -1,4 +1,5 @@
-# How Software is Developed
+**(TRIANGULO)
+	(TRIANGULO PITAGORAS)**# How Software is Developed
 
 By now, you're hopefully getting excited about learning to code. Let's start diving into the details and show you how professional developers write software.
 
@@ -34,7 +35,7 @@ The text editor built into the Learn IDE is based on an editor called Atom, whic
 
 OK, now that we can write code in our editor and run system commands in our shell, the final piece of the puzzle is understanding how to execute or compile the code we write as we build programs.
 
-At their lowest level, computers only understand binary machine code, expressed in 1s and 0s. Since we don't want to speak machine, we write instructions for computers in programming languages. A programming language is a set of rules for how to express instructions to a computer. This code is written in regular english characters. Whether, Ruby, or Javascript, or C#, all programming languages are just conventions for organizing the logic and data that defines what the program you're writing does. Programming languages make it easy for us to express ourselves but then the computer has to be able to interpret our written instructions and convert that code to the machine code it understands. The conversion process from a programming language to machine code is called "compiling" (also sometimes called executing or running or interpreting) and it is done through a program called an interpreter. Every programming language comes with an interpreter that you can use to “run” your programs, which means sending the code you've written to be converted and executed by the computer. 
+At their lowest level, computers only understand binary machine code, expressed in 1s and 0s. Since we don't want to speak machine, we write instructions for computers in programming languages. A programming language is a set of rules for how to express instructions to a computer. This code is written in regular English characters. Whether, Ruby, or Javascript, or C#, all programming languages are just conventions for organizing the logic and data that defines what the program you're writing does. Programming languages make it easy for us to express ourselves but then the computer has to be able to interpret our written instructions and convert that code to the machine code it understands. The conversion process from a programming language to machine code is called "compiling" (also sometimes called executing or running or interpreting) and it is done through a program called an interpreter. Every programming language comes with an interpreter that you can use to “run” your programs, which means sending the code you've written to be converted and executed by the computer. 
 
 <img src="http://learn-co-videos.s3.amazonaws.com/welcome/how-software-is-developed.png" style="width:100%" />
 
@@ -43,3 +44,5 @@ This is the programming process: write code in a programming language of your ch
 It may still sound a little abstract, but soon enough you'll be practicing these steps with the help of the Learn IDE, and it will all quickly feel very natural!
 
 Click "I'm done" to move on to the next lesson to get up and running with the Learn IDE. 
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/welcome-to-learn-3'>How Software is Developed</a> on Learn.co and start learning to code for free.</p>
