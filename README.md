@@ -1,4 +1,5 @@
-# How Software is Developed
+**(TRIANGULO)
+	(TRIANGULO PITAGORAS)**# How Software is Developed
 
 By now, you're hopefully getting excited about learning to code. Let's start diving into the details and show you how professional developers write software.
 
