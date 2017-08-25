@@ -8,7 +8,7 @@ The first thing we need to learn when it comes to programming is how to think of
 
 See, all these graphics, all the beautiful visual and stunning effects you experience on your computer, they are just the tip of the iceberg. They are the frontend, the end-user-interface, the outcome of what programmers have built and how people use software. But underneath this graphical user interface is your operating system, and that's where we, as software developers, live. Think of it as the difference between being the driver of a car, only knowing how to use a car, and being a mechanic, capable of looking under the hood and fixing things.
 
-We're going to focus right now on introducing you to the three main tools you'll use as a software developer: 
+We're **going** to focus right now on introducing you to the three main tools you'll use as a software developer: 
 
 1. A Terminal
 2. A Text Editor
